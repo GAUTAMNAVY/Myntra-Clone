@@ -1,1 +1,1 @@
-myntra clone for beginners
+myntra clone for beginners using basic HTML,CSS,Js
